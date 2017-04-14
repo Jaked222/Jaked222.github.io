@@ -1,7 +1,6 @@
 ---
 layout: post
-title: One thing at a time...
-subtitle: Thoughts on focus and productivity
+title: Thoughts on productivity
 bigimg: /img/calm.jpg
 ---
 
