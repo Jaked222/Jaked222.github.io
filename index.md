@@ -2,7 +2,7 @@
 layout: page
 title: JakeD
 subtitle: A simple landing page for those interested in any of my many lives.
-bigimg: /img/space.png
+bigimg: /img/earth.jpg
 ---
 
 ### Brief Bio
