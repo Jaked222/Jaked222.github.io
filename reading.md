@@ -62,6 +62,10 @@ bigimg: /img/knowledge.jpg
 * **Lewis Carroll**
   * Alice in Wonderland
   * Through the Looking Glass
+* **Isaac Asimov**
+  * Foundation
+* **Ernest Hemingway**
+  * The Old Man and the Sea
 
 
 # Some books/authors I would like to read, here for safe keeping
