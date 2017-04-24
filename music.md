@@ -44,7 +44,7 @@ bigimg: /img/fleur_de_vibrant_by_frankief-d4s9vd7.jpg
   * Compitine d'un autre ete
 * **Original:**
   * [Once a distant future](https://www.youtube.com/watch?v=2k5TSnT_gw4)
-  * Unnamed (church song, G major)
+  * [Ballade](https://www.youtube.com/watch?v=C7c9tt4Yn50)
 
 
 # Songs in progress
