@@ -3,8 +3,13 @@ layout: page
 title: JakeD
 subtitle: A simple landing page for those interested in any of my many lives.
 bigimg: 
-        - /img/earth.jpg
-        - /img/fleur_de_vibrant_by_frankief-d4s9vd7.jpg
+        -/img/earth.jpg
+        -/img/fleur_de_vibrant_by_frankief-d4s9vd7.jpg
+        -/img/space1.jpg
+        -/img/space2.jpg
+        -/img/space3.jpg
+        -/img/space4.jpg
+        -/img/space5.jpg
 ---
 
 ### Brief Bio
