@@ -5,7 +5,6 @@ subtitle: A simple landing page for those interested in any of my many lives.
 bigimg: 
         - /img/earth.jpg
         - /img/space1.jpg
-        - /img/space3.jpg
         - /img/space4.jpg
         - /img/space5.jpg
 ---
