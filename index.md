@@ -4,9 +4,8 @@ title: JakeD
 subtitle: A simple landing page for those interested in any of my many lives.
 bigimg: 
         - /img/earth.jpg
-        - /img/space1.jpg
-        - /img/space4.jpg
-        - /img/space5.jpg
+        - /img/space.jpg
+        - /img/fam.jpg
 ---
 
 ### Brief Bio
