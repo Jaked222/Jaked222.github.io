@@ -17,7 +17,7 @@ My relationship life.  I love to love my family and friends. If you're reading t
 ![Family](/img/fam.jpg)
 
 **Life #2:**
-My professional life. I work as a Software Developer for Applied Visions, Inc. in Northport NY. I work on various software projects using [modern tech.](/blog)
+My professional life. I work as a Software Developer for Applied Visions, Inc. in Northport NY. I work on various software projects using [modern tech.](/programming)
 
 **Life #3:**
 My inner life. When my other two lives have taken time off, I kick into gear with music, literature of many different types,meditation, journaling, exercise, among other enjoyable things.
