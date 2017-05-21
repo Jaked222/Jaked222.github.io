@@ -5,7 +5,6 @@ subtitle: A simple landing page for those interested in any of my many lives.
 bigimg: 
         - /img/earth.jpg
         - /img/space.png
-        - /img/fam.jpg
 ---
 
 ### Brief Bio
@@ -15,6 +14,7 @@ I'm Jake. I am 23 years old and as I mentioned, I have a few separate lives.
 **Life #1:** 
 My relationship life.  I love to love my family and friends. If you're reading this, you're likely to be one of them. This is arguably my most important life. Nonetheless all parts of the body are required to function, and all of my lives are required for my happiness.
 
+![family](http://imgur.com/a/wyhMl "family")
 **Life #2:**
 My professional life. I work as a Software Developer for Applied Visions, Inc. in Northport NY. I work on various software projects using lots of different tech. 
 
