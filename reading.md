@@ -66,7 +66,8 @@ bigimg: /img/knowledge.jpg
   * Foundation
 * **Ernest Hemingway**
   * The Old Man and the Sea
-
+* **Robert Anton Wilson**
+  * The Cosmic Trigger
 
 # Some books/authors I would like to read, here for safe keeping
 
