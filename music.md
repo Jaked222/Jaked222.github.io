@@ -16,6 +16,8 @@ bigimg: /img/fleur_de_vibrant_by_frankief-d4s9vd7.jpg
   * Warmness on the soul - Avenged Sevenfold
   * Hallelujah piano cover
   * Canon in D or C
+  * Imagining - Brian Crain
+  * Souvenir's Penthouse - Leon Noel
 * **JS Bach:**
   * [Goldberg Variations: Aria](https://www.youtube.com/watch?v=HtyAwYXINUQ)
   * [C minor Fugue, WTC BK 1](https://www.youtube.com/watch?v=XXhcaWJGpyE)
