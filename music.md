@@ -18,6 +18,8 @@ bigimg: /img/fleur_de_vibrant_by_frankief-d4s9vd7.jpg
   * Canon in D or C
   * Imagining - Brian Crain
   * Souvenir's Penthouse - Leon Noel
+  * Creep - Radiohead (same progression as my 'ballade', 1 -> 3m -> 4 -> minor 4
+  * pan's labrynth theme
 * **JS Bach:**
   * [Goldberg Variations: Aria](https://www.youtube.com/watch?v=HtyAwYXINUQ)
   * [C minor Fugue, WTC BK 1](https://www.youtube.com/watch?v=XXhcaWJGpyE)
