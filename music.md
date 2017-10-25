@@ -61,17 +61,3 @@ bigimg: /img/fleur_de_vibrant_by_frankief-d4s9vd7.jpg
   * Hungarian Rhapsody
 * **Chopin:** 
   * Winter Winds
-
-
-# Roman numeral analysis for my reference
-Symbol |  Meaning | Examples
---- | --- | ---
-Uppercase Roman numeral |	Major triad |	I
-Lowercase Roman numeral	| Minor triad	| i
-Superscript o	| Diminished triad |	io
-Superscript + (sometimes x) |	Augmented triad |	I+
-Superscript number | added note	| V7, |I6
-Two or more numbers |	figured bass notation |	V4-3, I6-4 (equivalent to Ic)
-Lowercase b |	First inversion |	Ib
-Lowercase c	| Second inversion |	Ic
-Lowercase d	| Third inversion |	V7d
