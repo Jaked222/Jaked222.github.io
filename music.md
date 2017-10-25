@@ -11,15 +11,16 @@ bigimg: /img/fleur_de_vibrant_by_frankief-d4s9vd7.jpg
 * **Unknown creators/Misc:**
   * My Lonely Road
   * Surrender
-  * Roses - Outkas
+  * Roses - Outkast
   * [Heart n Soul](https://www.youtube.com/watch?v=54v442rETnI)
   * Warmness on the soul - Avenged Sevenfold
   * Hallelujah piano cover
   * Canon in D or C
   * Imagining - Brian Crain
   * Souvenir's Penthouse - Leon Noel
-  * Creep - Radiohead (same progression as my 'ballade', 1 -> 3m -> 4 -> minor 4
-  * pan's labrynth theme
+  * Creep - Radiohead: I -> iii -> IV -> iv
+  * pan's labrynth theme: i -> iv -> iib5 -> V
+  * LOTR theme song: I -> V -> vi -> IV 
 * **JS Bach:**
   * [Goldberg Variations: Aria](https://www.youtube.com/watch?v=HtyAwYXINUQ)
   * [C minor Fugue, WTC BK 1](https://www.youtube.com/watch?v=XXhcaWJGpyE)
@@ -62,6 +63,15 @@ bigimg: /img/fleur_de_vibrant_by_frankief-d4s9vd7.jpg
   * Winter Winds
 
 
-# Songs I would like to learn
-
-* Simple songs that will increase my sheet reading ability and overall fluency.
+# Roman numeral analysis for my reference
+Symbol |  Meaning | Examples
+--- | --- | ---
+Uppercase Roman numeral |	Major triad |	I
+Lowercase Roman numeral	| Minor triad	| i
+Superscript o	| Diminished triad |	io
+Superscript + (sometimes x) |	Augmented triad |	I+
+Superscript number | added note	| V7, |I6
+Two or more numbers |	figured bass notation |	V4-3, I6-4 (equivalent to Ic)
+Lowercase b |	First inversion |	Ib
+Lowercase c	| Second inversion |	Ic
+Lowercase d	| Third inversion |	V7d
