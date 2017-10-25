@@ -7,7 +7,6 @@ bigimg: /img/fleur_de_vibrant_by_frankief-d4s9vd7.jpg
 
 [Musical Reference Page](./reference)
 
-[test](../reference)
 # Songs I enjoy playing
 
 
