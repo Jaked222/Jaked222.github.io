@@ -5,6 +5,9 @@ subtitle: Music is the language of the spirit. It opens the secret of life bring
 bigimg: /img/fleur_de_vibrant_by_frankief-d4s9vd7.jpg
 ---
 
+[Musical Reference Page](jakefrom.space/reference)
+
+
 # Songs I enjoy playing
 
 
