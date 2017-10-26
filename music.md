@@ -18,7 +18,8 @@ bigimg: /img/fleur_de_vibrant_by_frankief-d4s9vd7.jpg
   * Warmness on the soul - Avenged Sevenfold
   * Hallelujah piano cover
   * Canon in D or C
-  * Imagining - Brian Crain
+  * Imagining - Brian Crain: i -> III -> VI -> IV 
+  * Mad World - Gary Jules: i -> III -> VI -> IV 
   * Souvenir's Penthouse - Leon Noel
   * Creep - Radiohead: I -> iii -> IV -> iv
   * pan's labrynth theme: i -> iv -> iib5 -> V
