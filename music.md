@@ -2,7 +2,7 @@
 layout: page
 title: Music
 subtitle: Music is the language of the spirit. It opens the secret of life bringing peace, abolishing strife.
-bigimg: /img/fleur_de_vibrant_by_frankief-d4s9vd7.jpg
+bigimg: /img/cat_glasses.jpg
 ---
 
 [Musical Reference Page](./reference)
