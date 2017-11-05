@@ -15,7 +15,7 @@ bigimg: /img/fleur_de_vibrant_by_frankief-d4s9vd7.jpg
   * Surrender
   * Roses - Outkast
   * [Heart n Soul](https://www.youtube.com/watch?v=54v442rETnI)
-  * Warmness on the soul - Avenged Sevenfold
+  * Warmness on the soul - Avenged Sevenfold : i -> VI -> III -> VII
   * Hallelujah piano cover
   * Canon in D or C
   * Imagining - Brian Crain: i -> III -> VI -> IV 
@@ -23,7 +23,9 @@ bigimg: /img/fleur_de_vibrant_by_frankief-d4s9vd7.jpg
   * Souvenir's Penthouse - Leon Noel
   * Creep - Radiohead: I -> iii -> IV -> iv
   * pan's labrynth theme: i -> iv -> iib5 -> V
-  * LOTR theme song: I -> V -> vi -> IV 
+  * LOTR theme song: I -> V -> vi -> IV
+  * Eminem - Stan: i -> VI -> VII -> walk down III-> VII -> i
+  * Eminem - Mockingbird: i -> VI -> VII -> i
 * **JS Bach:**
   * [Goldberg Variations: Aria](https://www.youtube.com/watch?v=HtyAwYXINUQ)
   * [C minor Fugue, WTC BK 1](https://www.youtube.com/watch?v=XXhcaWJGpyE)
