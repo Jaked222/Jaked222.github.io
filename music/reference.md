@@ -38,4 +38,6 @@ Heres another good one for you to spend some time on (not sight reading this yet
 
 https://www.bisaboard.de/index.php/Attachment/48321-Brian-Crain-Imagining-pdf/
 
-The goal is to get your sheet reading ability up to the point that you can read and recognize what you're SUPPOSED to play faster than you can actually play it. The best way to do this is just read a lot of music. Do sight reading, and find some piece of slightly higher difficulty that you can work on and study. 
+The goal is to get your sheet reading ability up to the point that you can read and recognize what you're SUPPOSED to play faster than you can actually play it. The best way to do this is just read a lot of music. Do sight reading, and find some piece of slightly higher difficulty that you can work on and study.
+
+Also, listening to the music you're trying to learn will be VERY helpful. If you're stuck on a part, listen to one or two recordings of the song, and see how they play it. It will give you insight into the meaning of the notation, and will also give you a goal in the form of music as opposed to black dots on a page. The downside of this is if your ear is very developed, you will start to ignore the sheet music in tricky areas, and so won't develop your reading as much.
