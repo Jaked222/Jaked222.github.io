@@ -4,7 +4,7 @@ title: Words on a page
 subtitle: Symbols, to thoughts, to actions
 bigimg: /img/knowledge.jpg
 ---
-# Some of the books I've read that I would recommend
+# Some of the books that I would recommend
 
 * **Paramhansa Yogananda**
   * Autobiography of a Yogi
@@ -68,6 +68,12 @@ bigimg: /img/knowledge.jpg
   * The Old Man and the Sea
 * **Robert Anton Wilson**
   * The Cosmic Trigger
+* **Steve Darnall**
+  * Uncle Sam
+* **Seneca**
+  * Letters from a Stoic
+* **Tolstoy**
+  * War and Peace
 
 # Some books/authors I would like to read, here for safe keeping
 
@@ -77,7 +83,6 @@ bigimg: /img/knowledge.jpg
 * Slaughterhouse 5
 * Terrence McKenna reclaim your mind
 * Letters from underground
-* Senneca letters
 * Walter isacson Jefferson
 * How Proust can change your life
 * Songs of my life Walt Whitman
