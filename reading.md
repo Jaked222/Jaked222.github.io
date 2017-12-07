@@ -74,6 +74,8 @@ bigimg: /img/knowledge.jpg
   * Letters from a Stoic
 * **Tolstoy**
   * War and Peace
+* **Wait but Why**
+  * [Elon Musk and his companies](https://waitbutwhy.com/2017/03/elon-musk-post-series.html)
 
 # Some books/authors I would like to read, here for safe keeping
 
