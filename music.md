@@ -52,6 +52,8 @@ bigimg: /img/cat_glasses.jpg
 * **Yann Tiersen**
   * Waltz of Amelie
   * Compitine d'un autre ete
+* **Scarlatti**
+  * sonata b minor kp377
 * **Original:**
   * [Once a distant future](https://www.youtube.com/watch?v=2k5TSnT_gw4)
   * [Ballade](https://www.youtube.com/watch?v=C7c9tt4Yn50)
