@@ -76,6 +76,9 @@ bigimg: /img/knowledge.jpg
   * War and Peace
 * **Wait but Why**
   * [Elon Musk and his companies](https://waitbutwhy.com/2017/03/elon-musk-post-series.html)
+* **David Thorne**
+  * Wrap it in a bit of cheese like you're tricking the dog
+  * [his blog](http://www.27bslash6.com/)
 
 # Some books/authors I would like to read, here for safe keeping
 
