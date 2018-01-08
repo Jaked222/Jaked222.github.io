@@ -79,6 +79,13 @@ bigimg: /img/knowledge.jpg
 * **David Thorne**
   * Wrap it in a bit of cheese like you're tricking the dog
   * [his blog](http://www.27bslash6.com/)
+* **Robert A. Heinlein**
+  * Stranger In A Strange Land
+* **Carl Jung**
+  * Memories, Dreams, Reflections
+  * The Red Book
+* **Scriptures**
+  * The Bhagavad Gita (Paramhansa translation)
 
 # Some books/authors I would like to read, here for safe keeping
 
