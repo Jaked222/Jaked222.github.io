@@ -24,7 +24,7 @@ bigimg: /img/cat_glasses.jpg
   * Creep - Radiohead: I -> iii -> IV -> iv
   * pan's labrynth theme: i -> iv -> iib5 -> V
   * LOTR theme song: I -> V -> vi -> IV
-  * Eminem - Stan: i -> VI -> VII -> walk down III-> VII -> i
+  * Eminem - Stan: i -> VI (or try IV) -> VII -> walk down III-> VII -> i
   * Eminem - Mockingbird: i -> VI -> VII -> i
 * **JS Bach:**
   * [Goldberg Variations: Aria](https://www.youtube.com/watch?v=HtyAwYXINUQ)
