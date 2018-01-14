@@ -26,6 +26,7 @@ bigimg: /img/cat_glasses.jpg
   * LOTR theme song: I -> V -> vi -> IV
   * Eminem - Stan: i -> VI (or try IV) -> VII -> walk down III-> VII -> i
   * Eminem - Mockingbird: i -> VI -> VII -> i
+  * minor plagal cadence: I -> IV -> iv -> I
 * **JS Bach:**
   * [Goldberg Variations: Aria](https://www.youtube.com/watch?v=HtyAwYXINUQ)
   * [C minor Fugue, WTC BK 1](https://www.youtube.com/watch?v=XXhcaWJGpyE)
