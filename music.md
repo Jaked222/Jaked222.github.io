@@ -28,7 +28,7 @@ bigimg: /img/cat_glasses.jpg
   * Eminem - Mockingbird: i -> VI -> VII -> i
   * minor plagal cadence: I -> IV -> iv -> I (as seen in Creep and In My Life)
   * In my Life beatles: I -> V -> vi -> V7/IV(note below) -> IV -> iv -> I
-  * *Note on the V7/IV chord: This is playing the dominant seventh chord OF the fourth scale interval that you're playing. So this chord     if played in the key of A Major would be A7 (A dominant seventh) because A7 is the dominant seventh of D. This follows up nicely to     the plagal cadence which in this case would be D (IV) -> d (iv) -> A(I) 
+  * *Note on the V7/IV chord: This is playing the dominant seventh chord OF the fourth scale interval that you're playing. So this chord     if played in the key of A Major would be A7 (A dominant seventh) because A7 is the dominant seventh of D. This follows up nicely to     the plagal cadence which in this case would be D (IV) -> d (iv) -> A(I)*
 * **JS Bach:**
   * [Goldberg Variations: Aria](https://www.youtube.com/watch?v=HtyAwYXINUQ)
   * [C minor Fugue, WTC BK 1](https://www.youtube.com/watch?v=XXhcaWJGpyE)
