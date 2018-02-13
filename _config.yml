@@ -28,7 +28,6 @@ navbar-links:
     - Music: "music"
     - Books: "reading"
   Blog: "blog/"
-  Space: "https://www.youtube.com/watch?v=13B7UlX5y8U"
   Pong: "pong.html"
 
 # Image to show in the navigation bar - image must be a square (width = height)
