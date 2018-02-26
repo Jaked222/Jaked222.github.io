@@ -84,8 +84,24 @@ bigimg: /img/knowledge.jpg
 * **Carl Jung**
   * Memories, Dreams, Reflections
   * The Red Book
+  * Dreams
+* **Ken Wilbur**
+  * Grace and Grit
 * **Scriptures**
   * The Bhagavad Gita (Paramhansa translation)
+* **Thomas Friedman**
+  * Thank you for being late
+* **George Carlin**
+  * Last Words
+* **Cheryl Strayed**
+  * Wild
+* **DT Suzuki**
+  * Zen Writings
+* **Brandon Sanderson**
+  * Mistborn Trilogy
+* **Marcus Aurelius**
+  * Meditations
+
 
 # Some books/authors I would like to read, here for safe keeping
 
