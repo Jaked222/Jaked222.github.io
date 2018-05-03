@@ -99,6 +99,7 @@ bigimg: /img/knowledge.jpg
   * Zen Writings
 * **Brandon Sanderson**
   * Mistborn Trilogy
+  * Stormlight Archives
 * **Marcus Aurelius**
   * Meditations
 
