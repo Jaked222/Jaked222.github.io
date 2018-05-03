@@ -41,6 +41,8 @@ bigimg: /img/cat_glasses.jpg
   * Nocturnes op 9 no. 1
   * Nocturnes op 9 no. 2
   * Prelude in E-Minor (op.28 no. 4)
+  * Mazurka op 67 no 2
+  * Mazurka op 67 no 3
 * **Erik Satie**
   * Gymnopedies no. 1
   * Gnossiennes no. 
@@ -57,6 +59,7 @@ bigimg: /img/cat_glasses.jpg
   * Compitine d'un autre ete
 * **Scarlatti**
   * sonata b minor kp377
+  * sonata ??
 * **Original:**
   * [Once a distant future](https://www.youtube.com/watch?v=2k5TSnT_gw4)
   * [Ballade](https://www.youtube.com/watch?v=C7c9tt4Yn50)
