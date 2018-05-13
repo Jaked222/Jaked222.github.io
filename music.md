@@ -31,6 +31,7 @@ bigimg: /img/cat_glasses.jpg
   * *Note on the V7/IV chord: This is playing the dominant seventh chord OF the fourth scale interval that you're playing. So this chord     if played in the key of A Major would be A7 (A dominant seventh) because A7 is the dominant seventh of D. This follows up nicely to     the plagal cadence which in this case would be D (IV) -> d (iv) -> A(I). Also try playing notes from the root minor scale when we're     playing the vi chord.*
   * * Have yourself a merry xmas (interesting modulation): C -> a -> d7 -> G -> x2 -> C -> a -> bdim7(b d f a) -> E -> a (doing 2 5 1 to a minor)
   * * Coco - Remember me - does this ^ also. Do C -> f -> C -> bdim7 -> E -> a
+  * *Note: this modulation can similarly be done with jumping up to the tritone and doing 2-5-1... for example C -> fdim7(f# a c e) -> B     -> e)
 * **JS Bach:**
   * [Goldberg Variations: Aria](https://www.youtube.com/watch?v=HtyAwYXINUQ)
   * [C minor Fugue, WTC BK 1](https://www.youtube.com/watch?v=XXhcaWJGpyE)
