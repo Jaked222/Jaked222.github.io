@@ -29,10 +29,10 @@ bigimg: /img/cat_glasses.jpg
   * minor plagal cadence: I -> IV -> iv -> I (as seen in Creep and In My Life)
   * In my Life beatles: I -> V -> vi -> V7/IV(note below) -> IV -> iv -> I
   * *Note on the V7/IV chord: This is playing the dominant seventh chord OF the fourth scale interval that you're playing. So this chord     if played in the key of A Major would be A7 (A dominant seventh) because A7 is the dominant seventh of D. This follows up nicely to     the plagal cadence which in this case would be D (IV) -> d (iv) -> A(I). Also try playing notes from the root minor scale when we're     playing the vi chord.*
-  * * Have yourself a merry xmas (interesting modulation): C -> a -> d7 -> G -> x2 -> C -> a -> bdim7(b d f a) -> E -> a (doing 2 5 1 to a minor)
-  * * Coco - Remember me - does this ^ also. Do C -> f -> C -> bdim7 -> E -> a
-  * *Note: this modulation can similarly be done with jumping up to the tritone and doing 2-5-1... for example C -> fdim7(f# a c e) -> B     -> e)
-  * * Weird chromatic progression: c minor, d major, c# major, c major. Walk down chromatically melodic every chord starting on g
+  * Have yourself a merry xmas (interesting modulation): C -> a -> d7 -> G -> x2 -> C -> a -> bdim7(b d f a) -> E -> a (doing 2 5 1 to a minor)
+  * Coco - Remember me - does this ^ also. Do C -> f -> C -> bdim7 -> E -> a
+  * *Note: this modulation can similarly be done with jumping up to the tritone and doing 2-5-1... for example C -> fdim7(f# a c e) -> B     -> e)*
+  * Weird chromatic progression: c minor, d major, c# major, c major. Walk down chromatically melodic every chord starting on g
 * **JS Bach:**
   * [Goldberg Variations: Aria](https://www.youtube.com/watch?v=HtyAwYXINUQ)
   * [C minor Fugue, WTC BK 1](https://www.youtube.com/watch?v=XXhcaWJGpyE)
@@ -47,6 +47,7 @@ bigimg: /img/cat_glasses.jpg
   * Prelude in E-Minor (op.28 no. 4)
   * Mazurka op 67 no 2 g minor
   * Mazurka op 67 no 3 c major
+  * Mazurka op 6 no 1 f# minor
 * **Erik Satie**
   * Gymnopedies no. 1
   * Gnossiennes no. 
@@ -64,17 +65,9 @@ bigimg: /img/cat_glasses.jpg
 * **Scarlatti**
   * sonata b minor kp377
   * sonata ??
+* **Haydn**
+  * sonata D Major Hob XVI:37
 * **Original:**
   * [Once a distant future](https://www.youtube.com/watch?v=2k5TSnT_gw4)
   * [Ballade](https://www.youtube.com/watch?v=C7c9tt4Yn50)
 
-
-# Songs in progress
-
-
-* **Claude Debussy**
-  * Reverie
-* **Franz Liszt**
-  * Hungarian Rhapsody
-* **Chopin:** 
-  * Winter Winds
