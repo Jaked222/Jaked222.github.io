@@ -99,9 +99,11 @@ bigimg: /img/knowledge.jpg
   * Zen Writings
 * **Brandon Sanderson**
   * Mistborn Trilogy
-  * Stormlight Archives
+  * Stormlight Archive + EdgeDancer
 * **Marcus Aurelius**
   * Meditations
+* **Victor Frankl**
+  * Man's Search For Meaning
 
 
 # Some books/authors I would like to read, here for safe keeping
