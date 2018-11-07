@@ -100,10 +100,13 @@ bigimg: /img/knowledge.jpg
 * **Brandon Sanderson**
   * Mistborn Trilogy
   * Stormlight Archive + EdgeDancer
+  * Warbreaker
 * **Marcus Aurelius**
   * Meditations
 * **Victor Frankl**
   * Man's Search For Meaning
+* **Walter Isaacson**
+  * Ben Franklin: An American Life
 
 
 # Some books/authors I would like to read, here for safe keeping
@@ -133,7 +136,5 @@ bigimg: /img/knowledge.jpg
 * Ana kerinina
 * civil disobedience / walden
 * Arabian nights
-* carl jungs autobiography
 * The book of five rings (https://www.youtube.com/watch?v=qO7GFIqFvo8&t=402s)
 * the secret teachings of all ages
-* the hero with a thousand faces
