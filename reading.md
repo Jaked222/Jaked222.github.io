@@ -47,6 +47,7 @@ bigimg: /img/knowledge.jpg
   * Miss Peregrine's Home For Peculiar Children
 * **Neil Gaiman**
   * The Graveyard Book
+  * Norse Mythology
 * **The School of Life (Alain De Botton)**
   * [All videos on youtube](https://www.youtube.com/user/schooloflifechannel)
 * **Friedrich Nietzsche**
@@ -101,6 +102,7 @@ bigimg: /img/knowledge.jpg
   * Mistborn Trilogy
   * Stormlight Archive + EdgeDancer
   * Warbreaker
+  * Skyward
 * **Marcus Aurelius**
   * Meditations
 * **Victor Frankl**
