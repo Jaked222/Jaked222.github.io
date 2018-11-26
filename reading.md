@@ -109,6 +109,9 @@ bigimg: /img/knowledge.jpg
   * Man's Search For Meaning
 * **Walter Isaacson**
   * Ben Franklin: An American Life
+* **Aldous Huxley
+  * The Doors of Perception
+  * Brave New World
 
 
 # Some books/authors I would like to read, here for safe keeping
