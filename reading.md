@@ -88,6 +88,7 @@ bigimg: /img/knowledge.jpg
   * Dreams
 * **Ken Wilbur**
   * Grace and Grit
+  * A theory of everything
 * **Scriptures**
   * The Bhagavad Gita (Paramhansa translation)
 * **Thomas Friedman**
@@ -109,9 +110,11 @@ bigimg: /img/knowledge.jpg
   * Man's Search For Meaning
 * **Walter Isaacson**
   * Ben Franklin: An American Life
-* **Aldous Huxley
+* **Aldous Huxley**
   * The Doors of Perception
   * Brave New World
+* **P. D. Ouspensky**
+  * In search of the miraculous
 
 
 # Some books/authors I would like to read, here for safe keeping
