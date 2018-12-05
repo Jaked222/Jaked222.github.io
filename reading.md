@@ -89,6 +89,7 @@ bigimg: /img/knowledge.jpg
 * **Ken Wilbur**
   * Grace and Grit
   * A theory of everything
+  * Quantum Questions: Mystical Writings of the World's Great Physicists
 * **Scriptures**
   * The Bhagavad Gita (Paramhansa translation)
 * **Thomas Friedman**
