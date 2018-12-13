@@ -116,6 +116,8 @@ bigimg: /img/knowledge.jpg
   * Brave New World
 * **P. D. Ouspensky**
   * In search of the miraculous
+* **Douglas Adams**
+  * Hitchhiker's Guide to the Galaxy
 
 
 # Some books/authors I would like to read, here for safe keeping
