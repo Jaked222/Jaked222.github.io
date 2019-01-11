@@ -88,7 +88,8 @@ bigimg: /img/knowledge.jpg
   * Dreams
 * **Ken Wilbur**
   * Grace and Grit
-  * A theory of everything
+  * A brief history of everything
+  * Integral Mindfulness (didn't finish)
   * Quantum Questions: Mystical Writings of the World's Great Physicists
 * **Scriptures**
   * The Bhagavad Gita (Paramhansa translation)
