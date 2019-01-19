@@ -27,6 +27,7 @@ bigimg: /img/knowledge.jpg
 * **Alan Watts**
   * The book (on the taboo against knowing who you are)
   * The Way of Zen
+  * In My Own Way (autobiography - didn't finish)
   * All lectures
 * **Ekhart Tolle**
   * The Power of Now
