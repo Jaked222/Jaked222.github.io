@@ -20,6 +20,9 @@ bigimg: /img/knowledge.jpg
   * Everything else you can find by him
 * **Ram Dass**
   * Be Here Now
+* **Jiddhu Krishnamurti**
+  * Lectures
+  * As one is
 * **Frank Herbert**
   * Dune Trilogy
 * **J.R.R. Tolkien**
@@ -107,6 +110,9 @@ bigimg: /img/knowledge.jpg
   * Stormlight Archive + EdgeDancer
   * Warbreaker
   * Skyward
+  * Children of the Nameless
+* **Joe Abercrombie**
+  * The Blade Itself
 * **Marcus Aurelius**
   * Meditations
 * **Victor Frankl**
