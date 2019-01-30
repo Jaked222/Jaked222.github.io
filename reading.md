@@ -126,7 +126,8 @@ bigimg: /img/knowledge.jpg
   * In search of the miraculous
 * **Douglas Adams**
   * Hitchhiker's Guide to the Galaxy
-
+* **Darren Hardy**
+  * The Compound Effect
 
 # Some books/authors I would like to read, here for safe keeping
 
