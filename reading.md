@@ -112,7 +112,7 @@ bigimg: /img/knowledge.jpg
   * Skyward
   * Children of the Nameless
 * **Joe Abercrombie**
-  * The Blade Itself
+  * The First Law trilogy
 * **Marcus Aurelius**
   * Meditations
 * **Victor Frankl**
@@ -128,6 +128,10 @@ bigimg: /img/knowledge.jpg
   * Hitchhiker's Guide to the Galaxy
 * **Darren Hardy**
   * The Compound Effect
+* **Jen Sincero
+  * You are a BADASS
+* **Musashi
+  * Book of 5 rings
 
 # Some books/authors I would like to read, here for safe keeping
 
@@ -156,5 +160,4 @@ bigimg: /img/knowledge.jpg
 * Ana kerinina
 * civil disobedience / walden
 * Arabian nights
-* The book of five rings (https://www.youtube.com/watch?v=qO7GFIqFvo8&t=402s)
 * the secret teachings of all ages
