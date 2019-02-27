@@ -132,6 +132,8 @@ bigimg: /img/knowledge.jpg
   * You are a BADASS
 * **Musashi
   * Book of 5 rings
+* **Rolf Potts
+  * Vagabonding
 
 # Some books/authors I would like to read, here for safe keeping
 
