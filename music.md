@@ -28,6 +28,7 @@ bigimg: /img/cat_glasses.jpg
   * Eminem - Mockingbird: i -> VI -> VII -> i
   * minor plagal cadence: I -> IV -> iv -> I (as seen in Creep and In My Life)
   * In my Life beatles: I -> V -> vi -> V7/IV(note below) -> IV -> iv -> I
+  * Sweet child o mine: C major -> B flat major -> F major, then G major -> B flat major -> F major, then D minor -> Bflat major -> A major -> g major back to d minor. Don't know how to describe these in roman numeral notation. What key is this in?
   * *Note on the V7/IV chord: This is playing the dominant seventh chord OF the fourth scale interval that you're playing. So this chord     if played in the key of A Major would be A7 (A dominant seventh) because A7 is the dominant seventh of D. This follows up nicely to     the plagal cadence which in this case would be D (IV) -> d (iv) -> A(I). Also try playing notes from the root minor scale when we're     playing the vi chord.*
   * Have yourself a merry xmas (interesting modulation): C -> a -> d7 -> G -> x2 -> C -> a -> bdim7(b d f a) -> E -> a (doing 2 5 1 to a minor)
   * Coco - Remember me - does this ^ also. Do C -> f -> C -> bdim7 -> E -> a
