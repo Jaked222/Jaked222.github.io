@@ -134,7 +134,10 @@ bigimg: /img/knowledge.jpg
   * Book of 5 rings
 * **Rolf Potts
   * Vagabonding
-
+* **Henry David Thoreau**
+  * Walden
+* **Seneca**
+  * Letters to Lucilius
 # Some books/authors I would like to read, here for safe keeping
 
 * how to win friends and influence people
